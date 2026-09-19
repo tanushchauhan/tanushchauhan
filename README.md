@@ -1,16 +1,28 @@
-## Hi there 👋
+## Tanush Chauhan
 
-<!--
-**tanushchauhan/tanushchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Honors and Math @ UT Austin, minor in Robotics. Dean's Scholars.
 
-Here are some ideas to get you started:
+I do perception research at UT's [Autonomous Mobile Robotics Lab](https://amrl.cs.utexas.edu/), where I work on multi-camera 3D pedestrian tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Publications**
+
+- **STARS: From Spatiotemporal Dynamics to Social Representations in Human-Robot Interaction** - CoRL 2026
+- **MemeQA: Holistic Evaluation for Meme Understanding** - ACL 2025
+
+**Currently**
+
+- Multi-camera perception infrastructure at AMRL
+- Reading up on visual SLAM, with a front-end implementation as the next project
+- Playing CTFs with [ISSS](https://isss.io)
+
+**Working with**
+
+`Python` `C++` `C` `TypeScript` `Verilog`
+`ROS2` `PyTorch` `OpenCV` `NVIDIA DeepStream` `Docker`
+`React` `Next.js` `React Native` `Supabase` `AWS`
+
+---
+
+[tanushchauhan.com](https://tanushchauhan.com) | [LinkedIn](https://linkedin.com/in/tanushchauhan) | tanush@utexas.edu
